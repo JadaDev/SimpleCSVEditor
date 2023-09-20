@@ -47,7 +47,7 @@ I know there is plenty of tools that does editing, but I made it for a specified
 
 ### Screenshots
 
-
+![Screenshot](https://github.com/JadaDev/SimpleCSVEditor/blob/main/Simple%20CSV%20Editor%20SS.png?raw=true)
 
 ## Contributing
 

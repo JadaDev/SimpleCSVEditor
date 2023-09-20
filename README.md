@@ -4,6 +4,8 @@ Simple CSV Editor is a simple application for viewing, editing, and saving CSV (
 Remember that in order to Edit a world of warcraft DBC you need DBCUtill so that you could convert it to CSV and do the edit.
 I know there is plenty of tools that does editing, but I made it for a specified reason which to modify all rows for a specified column.
 
+![Screenshot](https://github.com/JadaDev/SimpleCSVEditor/blob/main/SimpleCSVEditorLogo.png?raw=true)
+
 ## Features
 
 - Load CSV files.

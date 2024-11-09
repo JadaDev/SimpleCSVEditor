@@ -60,3 +60,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## In Order to change TrinityCore Spells to Scale for 255 server you'd need to edit column 38 & 39 with new value = 255
+
+# You can use wow parsper convert spell.dbc to csv and edit with this tool ( New Value = 255 ) & ( Column 38 ) & ( Column 39 )
+# Than you'd have to change the first row from 255 to int, int.
